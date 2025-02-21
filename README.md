@@ -1,7 +1,7 @@
 # ascii-avatar
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/python-3.11%2B-blue)](https://www.python.org/)
 
 [ascii-avatar](https://github.com/m2e-sh/ascii-avatar) is an open-source Python library that generates animated ASCII art avatars. The avatars dynamically adjust their facial expressions based on input phrases, making them ideal for CLI-based chatbots, text-based games, and fun command-line interactions.
 
@@ -26,7 +26,7 @@
 
 ## Installation
 
-Ensure you have Python 3.8 or later installed, then install `ascii-avatar` using `poetry`:
+Ensure you have Python 3.11 or later installed, then install `ascii-avatar` using `poetry`:
 
 ```sh
 pip install poetry  # If you haven't installed Poetry yet
