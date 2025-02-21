@@ -87,6 +87,10 @@ Contributions are welcome! Feel free to open issues, submit pull requests, or di
 4. Push to the branch (`git push origin feature-name`)
 5. Open a pull request
 
+## Changelog
+
+Please refer to [CHANGELOG](./CHANGELOG.md).
+
 ## License
 
 Copyright 2024 (c) [m2e.sh](https://github.com/m2e-sh)
