@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "ascii-avatar"
+version = "0.0.1"
+description = "ascii-avatar is an open-source Python library that generates animated ASCII art avatars."
+authors = ["m2e.sh <m2e.sh.17711@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+click = "^8.1.8"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
