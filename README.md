@@ -72,7 +72,7 @@ avatar.animate("I'm feeling great today!")
 To run tests:
 
 ```sh
-poetry run pytest
+poetry run test
 ```
 
 This ensures all components of `ascii-avatar` function as expected.
